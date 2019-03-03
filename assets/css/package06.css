@@ -1,0 +1,237 @@
+.backgroundpackgate{ 
+    position: relative;
+    width: 100%;
+    background-image: url(../img/package/6/boomtest.png); 
+    background-size: cover;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.detail-packgate{
+    width: 50%;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.imgslide img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.packgate-left{
+    width: 90%;
+    height: 50%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 500px;
+    margin-left: 330px;
+}
+.packgate-left img{
+    width: 90%;
+    margin-top: 25px;
+}
+.packgate-left p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+
+
+
+.packgate-right{
+    width: 90%;
+    height: 50%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+   float: right;
+}
+.packgate-right img{
+    width: 90%;
+    margin-top: 25px;
+}
+.packgate-right p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+
+
+
+
+
+.backgroundpackgate2{
+    position: relative;
+    width: 100%;
+    background-image: url(../img/package/6/day2.png);
+    background-size: cover;
+    height: 1020px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.packgate-right2{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 500px;
+    margin-left: 330px;
+}
+.packgate-right2 img{
+    width: 415px;
+    height: 265px;
+    margin-top: 25px;
+}
+.packgate-right2 p {
+    font-size: 27px;
+    text-align: left;
+    margin-left: 25px;
+}
+.backgroundpackgate3{
+    position: relative;
+    width: 100%;
+    background-image: url(../img/package/6/day3.png);
+    background-size: cover;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.packgate-right3{
+    width: 50%;
+    height: 80%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 170px;
+    margin-left: 330px;
+}
+.packgate-right3 img{
+    width: 415px;
+    height: 265px;
+    margin-top: 25px;
+}
+.packgate-right3 p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.detail-packgate2{
+    width: 55%;
+    height: 330px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.detail-packgate3{
+    width: 75%;
+    height: 330px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.packgatemobile{
+    display: none;
+}
+.detail-packgate-mobile{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    max-width: 100%;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 40px;
+}
+.road-mobile{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 40px;
+    text-align: center;
+    margin-top: 40px;
+}
+.road-mobile img{
+width: 100%;
+height: 100%;
+}
+.packgate-left-mobile{
+    width: 500px;
+    max-width: 90%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.packgate-left-mobile img{
+    width: 100%;
+    height: 100%;
+    margin-top: 25px;
+}
+.packgate-left-mobile p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.packgate-right2-mobile {
+    width: 500px;
+    max-width: 90%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.packgate-right2-mobile img{
+    width: 100%;
+    height: 100%;
+    margin-top: 25px;
+}
+.packgate-right2-mobile p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.num{
+    width: 25px !important;
+    height: 25px !important;
+}
+.packgate-right3-mobile {
+    width: 500px;
+    max-width: 90%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px; 
+}
+.packgate-right3-mobile img{
+    width: 100%;
+    height: 100%;
+    margin-top: 25px;
+}
+.packgate-right3-mobile p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.road{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.road img{
+    width: 75%;
+    height: 100%;
+}

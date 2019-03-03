@@ -1,0 +1,12 @@
+body {
+  background-color: #f2f4f6;
+  margin: 0px;
+  font-family: 'Kanit';
+}
+
+.my-form {
+  padding-top: 16px;
+   margin: auto;
+   max-width: 400px;
+   max-height: 400px;
+  }

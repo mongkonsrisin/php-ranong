@@ -1,0 +1,201 @@
+.backgroundpackgate{
+    position: relative;
+    width: 100%;
+    height: 1000px;
+background-image: url(../img/package/2/boomtest.png);   
+    background-size: cover;   
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.backgroundpackgate-mobile{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/package/2/boomtest.png);
+    background-size: cover;   
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.road{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 40px;
+}
+.road img{
+    width: 100%;
+    height: 100%;
+}
+   
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.detail-packgate{
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: -980px;
+    margin-left: 70px;
+    font-size: 14px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: auto;
+}
+
+.imgslide img{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.packgate-left {
+    width: 300px;
+    min-height: 400px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.packgate-left img{
+    width: 315px;
+    height: 165px;
+    
+}
+.packgate-left p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+.packgate-left0 {
+    width: 300px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: -400px;
+    margin-left: 370px;
+}
+.packgate-left0 img{
+    width: 315px;
+    height: 165px;
+    
+}
+.packgate-left0 p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+.backgroundpackgate2{
+    position: relative;
+    width: 100%;
+    background-image: url(../img/package/2/day2.png);
+    background-size: cover;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.packgate-right2{
+    width: 50%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: -234px;
+    margin-left: 360px;
+    font-size: 14px;
+}
+.packgate-right2 img{
+    width: 415px;
+    height: 265px;
+    margin-top: 25px;
+}
+.packgate-right2 p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.detail-packgate-mobile{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    max-width: 100%;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 40px;
+}
+.road-mobile{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 40px;
+        text-align: center;
+        margin-top: 40px;
+}
+.road-mobile img{
+    width: 100%;
+    height: 100%;
+}
+.packgate-left-mobile{
+    width: 500px;
+    max-width: 100%; 
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.packgate-left-mobile img{
+    width: 100%;
+    height: 100%;
+    margin-top: 25px;
+}
+.packgate-left-mobile p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.packgate-right-mobile {
+    width: 50%;
+    height: 90%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 14px;
+}
+.packgate-right-mobile img{
+    width: 100%;
+    height: 100%;
+    margin-top: 25px;
+}
+.packgate-right-mobile p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.packgate-right2-mobile {
+    width: 50%;
+    height: 90%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.packgate-right2-mobile img{
+    width: 100%;
+    height: 100%;
+    margin-top: 25px;
+}
+.packgate-right2-mobile p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.num{
+    width: 25px !important;
+    height: 25px !important;
+}
+.packgatemobile{
+    display: none;
+}

@@ -1,0 +1,96 @@
+.backgroundpackgate{
+    position: relative;
+    width: 100%;
+    background-image: url(../img/package/2/boomtest.png); 
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.row {
+    margin-left: 0px;
+    margin-right: 0px; 
+}
+.detail-packgate4{
+    width: 400px;
+    max-width: 90%;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 74px;
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+
+.imgslide img{
+    margin-left: auto;
+    margin-right: auto;
+}
+.packgate-left{
+    width: 50%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 40px;
+    margin-left: 360px;
+}
+.packgate-left img{
+    width: 415px;
+    height: 265px;
+    margin-top: 25px;
+}
+.packgate-left p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.num{
+    width: 25px !important;
+    height: 25px !important;
+}
+.packgate-right {
+    width: 450px;
+    max-width: 90%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 100px;
+    margin-left: 900px;
+    margin-bottom: 20px;
+}
+.packgate-right img{
+    width: 415px;
+    height: 265px;
+    margin-top: 25px;
+}
+.packgate-right p {
+    font-size: 21px;
+    text-align: left;
+    margin-left: 25px;
+}
+.road{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 40px;
+}
+.road img{
+    width: 75%;
+    height: 100%;
+    margin-left: 209px;
+}
+.road-mobile{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 40px;
+    text-align: center;
+    margin-top: 40px;
+}
+.road-mobile img{
+width:100%;
+height: 100%;
+}
+.packgatemobile{
+    display: none;
+}

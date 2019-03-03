@@ -1,0 +1,130 @@
+.backgroundpackgate{ 
+    position: relative;
+    width: 100%;
+    background-image: url(../img/package/2/boomtest.png); 
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.backgroundpackgatep{
+    position: relative;
+    width: 100%;
+    background-image: url(../img/package/2/boomtest.png); 
+    background-size: cover;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.detail-packgate7{
+    width: 450px;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 50px;
+    margin-left: 50px;
+    max-width: 100%;
+    max-height: 430px;
+}
+.num{
+    width: 25px !important;
+    height: 25px !important;
+}
+.imgslide img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.packgate-right {
+    width: 350px;
+    height:400px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: -316px;
+    margin-left: 50px;
+}
+.packgate-right img{
+    width: 315px;
+    height: 165px;
+    margin-top: 25px;
+}
+.packgate-right p {
+    font-size: 21px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+
+
+.packgate-right2 {
+    width: 400px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 300px;
+    margin-left: 300px;
+}
+.packgate-right2 img{
+    width: 380px;
+    height: 245px;
+    margin-top: 25px;
+}
+.packgate-right2 p {
+    font-size: 21px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+
+
+
+
+
+.packgate-right-mobile {
+    width: 500px;
+    max-width: 90%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.packgate-right-mobile img{
+    width: 100%;
+    height: 100%;
+    margin-top: 25px;
+}
+.packgate-right-mobile p {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 25px;
+}
+.road{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 40px;
+    margin-left: 100px;
+}
+.road img{
+    width: 100%;
+    height: 100%;
+}
+.road-mobile{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 40px;
+        text-align: center;
+        margin-top: 40px;
+}
+.road-mobile img{
+    width: 105%;
+    height: 100%;
+}
+.packgatemobile{
+    display: none;
+}
